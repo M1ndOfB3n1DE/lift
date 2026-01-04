@@ -1,0 +1,7 @@
+name: lift
+version: '1.0.0'
+main: com.tehrionstudio.lift.Lift
+api-version: '1.21'
+authors: [ MindOfBeni ]
+description: A plugin by TEHRION STUDIO
+website: https://studio.tehrion.com
